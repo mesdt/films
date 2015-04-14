@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 # use haml for templates, not erb
-gem 'haml'
+gem 'haml' # run $ `bundle install --without production` after
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.1'
